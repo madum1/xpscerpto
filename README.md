@@ -372,15 +372,9 @@ Do not make these claims unless the relevant acceptance gate proves them through
 
 ## License
 
-Add the project’s license information here, or reference the license file if one exists.
+License status: not yet selected.
 
-Recommended format:
-
-```text
-See LICENSE.
-```
-
-If no license has been selected yet, do not imply open-source permissions until the license is defined.
+XPScerpto is currently published for review, evaluation, and project visibility only. No permission is granted to use, copy, modify, redistribute, sublicense, or commercially deploy the code unless a license is later published or written permission is granted by the project owner.
 
 ## Final note
 
